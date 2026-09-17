@@ -113,7 +113,6 @@ print(type(rata_rata))
 nama = input("Masukkan nama Anda: ")
 nilai_uts = float(input("Masukkan nilai UTS Anda: "))
 nilai_uas = float(input("Masukkan nilai UAS Anda: "))
-
 rata_rata = (nilai_uts + nilai_uas) / 2
 
 print("Nama :", nama)
